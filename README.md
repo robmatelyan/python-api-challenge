@@ -1,5 +1,5 @@
 # python-api-challenge
-Penn Data Analysis Bootcamp sixth assignment
+Penn Data Analysis Bootcamp Assignment 6
 </br>
 </br>
 In this assignment, I created a script to visualize the weather of 500+ cities across the world of varying distance from the equator using the OpenWeatherMap API.
